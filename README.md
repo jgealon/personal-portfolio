@@ -1,20 +1,18 @@
 # My Personal Portfolio
+This is my personal portfolio
 ## About Me
-### Subsection
-### Subsection
+Interested in learning about Github, coding, and other technical topics.
 
 ## Skills
-### Subsection
-### Subsection
-
-## About Me
-### Subsection
-### Subsection
+### Python
+### Github
 
 ## Work Experience
-### Subsection
-### Subsection
+### Applications Engineer
+### Test Engineer
+### RF Engineer
+### PCB Design Engineer
 
-## Past Projects
-### Subsection
-### Subsection
+## Other
+### DIY (Painting, Carpentry, Masonry, Plumbing)
+### Model Arts
